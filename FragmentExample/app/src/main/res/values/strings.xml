@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="button_text">Change Text</string>
+    <string name="text_label">Fragment Two</string>
+</resources>

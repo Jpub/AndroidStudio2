@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="ask_text">Ask Question</string>
+    <string name="answer_text">Answer Question</string>
+</resources>

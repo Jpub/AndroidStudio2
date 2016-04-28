@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="fragone_label_text">프래그먼트 화면</string>
+</resources>

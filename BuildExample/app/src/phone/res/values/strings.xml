@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildExample</string>
+    <string name="hello_world">This is the phone flavor</string>
+</resources>

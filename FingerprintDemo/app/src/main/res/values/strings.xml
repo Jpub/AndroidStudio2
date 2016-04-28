@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerprintDemo</string>
+    <string name="touch_sensor">Touch Sensor</string>
+</resources>
